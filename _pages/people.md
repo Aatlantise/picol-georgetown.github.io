@@ -75,6 +75,16 @@ predict structure and resolve ambiguities. Prior to Georgetown, he was an NLP en
 
 ## Wesley Scivetti
 
+<img src="../images/Wes.jpg" style="width:150px; border-radius:50%;" alt="Wesley Scivetti">
+
+Wes is a 3rd year Ph.D. candidate in Computational Linguistics.
+His research centers on the linguistic interpretability of language models,
+with particular focus on using Construction Grammar to understand language model performance.
+He is also interested in corpus linguistics and resource creation, low-resource NLP, information theory,
+and models with human scale training data.
+
+[GitHub](https://github.com/WesScivetti) [Website](https://wesleyscivetti.georgetown.domains/)
+
 ---
 
 ## Tatsuya Aoyama
