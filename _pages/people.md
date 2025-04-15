@@ -8,29 +8,12 @@ redirect_from:
   - /people.html
 ---
 
-## Dan DeGenaro
-<img src="../images/dan.jpg" style="width:150px; border-radius:50%;" alt="Dan DeGenaro">
+## Ethan Gotlieb Wilcox
+<img src="../images/ethan.jpg" style="width:150px; border-radius:50%;" alt="Ethan Wilcox">
 
-Dan is originally from White Plains, NY. He is finishing up his MS in computational linguistics, after which
-he will begin his PhD in computer science, both at Georgetown. Dan is interested in the development of safe,
-ethical, and energy-efficient multimodal intelligent systems that serve the needs of everyday people while
-respecting important rights such as privacy, copyright, and the right to be forgotten. He is also interested in
-low-resource machine translation and speech recognition,
-multilingual NLP, and information-theoretic approaches to language modeling and linguistics.
+Ethan is an Assistant Professor of Computational Linguistics and the director of PICoL. He is interested in how we learn language from limited inputs and how we process it in real-time. To answer these questions, he and the PICoL team use a variety of methods, including psycholinguistics experiments, formal mathematical and statistical models, and modern machine-learning techniques.
 
-[GitHub](https://github.com/ddegenaro) [Website](https://ddegenaro.github.io/)
-
----
-
-
-## Lanni Bu
-
-<img src="../images/Lanni.jpg" style="width:150px; border-radius:50%;" alt="Lanni Bu">
-
-Lanni is a first year Master's student in computational linguistics.
-Her research interests include computational psycholinguistics and cognitive modeling.
-
-[GitHub](https://github.com/Lanni-ni)
+[GitHub](https://github.com/wilcoxeg) [Website](https://wilcoxeg.github.io/)
 
 ---
 
@@ -75,14 +58,33 @@ predict structure and resolve ambiguities. Prior to Georgetown, he was an NLP en
 
 ## Wesley Scivetti
 
----
+<img src="../images/wes.jpeg" style="width:150px; border-radius:50%;" alt="Wesley Scivetti">
 
-## Tatsuya Aoyama
+Wes is a 3rd year Ph.D. candidate in Computational Linguistics. His research centers on the linguistic interpretability of language models, with particular focus on using Construction Grammar to understand language model performance. He is also interested in corpus linguistics and resource creation, low-resource NLP, information theory, and models with human-scale training data.
 
----
-
-## Jingni Wu
+[GitHub](https://github.com/WesScivetti) [Website](https://wesleyscivetti.georgetown.domains/)
 
 ---
 
-## Devika Tiwari
+## Dan DeGenaro
+<img src="../images/dan.jpg" style="width:150px; border-radius:50%;" alt="Dan DeGenaro">
+
+Dan is originally from White Plains, NY. He is finishing up his MS in computational linguistics, after which
+he will begin his PhD in computer science, both at Georgetown. Dan is interested in the development of safe,
+ethical, and energy-efficient multimodal intelligent systems that serve the needs of everyday people while
+respecting important rights such as privacy, copyright, and the right to be forgotten. He is also interested in
+low-resource machine translation and speech recognition,
+multilingual NLP, and information-theoretic approaches to language modeling and linguistics.
+
+[GitHub](https://github.com/ddegenaro) [Website](https://ddegenaro.github.io/)
+
+---
+
+## Lanni Bu
+
+<img src="../images/Lanni.jpg" style="width:150px; border-radius:50%;" alt="Lanni Bu">
+
+Lanni is a first year Master's student in computational linguistics.
+Her research interests include computational psycholinguistics and cognitive modeling.
+
+[GitHub](https://github.com/Lanni-ni)
