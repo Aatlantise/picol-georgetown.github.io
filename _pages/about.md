@@ -13,7 +13,7 @@ redirect_from:
 
  <img src="../images/cover_image.jpg" style="padding: 10px" alt="Georgetown Image"> 
 
-The goal of the Lab's research is to understand the computational mechanisms that facilitate language learning and language processing in the human mind and to use this knowledge to build robust and safe language technologies. To do so, we deploy a multidisciplinary toolkit including formal linguistic theories, experimental psycholinguistics, statistical modeling, and deep learning.
+Our goal in PICoL is to understand the computational mechanisms that facilitate language learning and language processing in the human mind, and to use this knowledge to build robust and safe language technologies. To do so, we deploy a multidisciplinary toolkit including formal linguistic theories, experimental psycholinguistics, statistical modeling, and deep learning.
 
 PICoL was launched in fall 2024 and is housed in the [Department of Linguistics](https://linguistics.georgetown.edu/) at Georgetown. It is directed by [Ethan G. Wilcox](https://wilcoxeg.github.io/).
 

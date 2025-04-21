@@ -19,6 +19,17 @@ redirect_from:
 
 ---
 
+<img src="../images/tatsuya.jpg" style="height:180px; border-radius:50%; float:left; padding-right: 30px" alt="Lauren Levine">
+
+**Tatsuya Aoyama** is a 5th-year Ph.D. candidate in Linguistics. His research interests include topics in computational psycholinguistics. In particular, he is interested in the following areas: (1) language acquisition and pretraining dynamics, (2) language processing, and (3) (mechanistic) interpretability.
+
+
+[Website](https://t-aoyam.github.io/)
+
+<br>
+
+---
+
 <img src="../images/Lauren.jpg" style="height:200px; border-radius:50%; float:left; padding-right: 30px" alt="Lauren Levine">
 
 **Lauren Levine** is a Ph.D. candidate in Computational Linguistics at Georgetown University,
